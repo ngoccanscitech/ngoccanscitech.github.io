@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Ngoc Can Nguyen
+
+Hi!
+My name's Nguyen Ngoc Can (Thien An). I’m currently working on PHP and Vanilla JS for a CRM + Sales Enablement product named MySelf.
+I'd love to work in a professional and active environment where I can apply and enhance my knowledge, skills to serve the firm to the best of my efforts as well as improve my skills. I am keen on learning new languages which give me a lot of challenges.
 
 You can use the [editor on GitHub](https://github.com/ngoccanscitech/ngoccanscitech.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
